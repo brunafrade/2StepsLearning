@@ -1,5 +1,9 @@
-# 2StepsLearn
+# 2StepsLearning
 [[Project Page]](https://www.verlab.dcc.ufmg.br/portfolio-item/detecting-landmarks-on-faces-in-different-domains/)     [[Paper]](https://www.verlab.dcc.ufmg.br/fradeicip2018/) 
+
+This Project aims to investigate approaches for landmarks detection in different domains face using a small dataset labeled. Detecting landmarks embedded with semantic information from images is one of the key challenges in image processing and computer vision fields. In general, landmarks or fiducial points are related to discriminative locations in the image, frequently embedding some meaning. For example, in human or animal faces, a landmark locates regions comprising the eyes, eyebrows, mouth, and the tip of the nose. After all, the automatic estimation of landmarks on faces has a myriad of applications such as faces recognition, game animation, avatars, and transferring facial expressions
+
+![.](http://url/to/img.png](https://www.verlab.dcc.ufmg.br/wp-content/uploads/2018/09/landmarks.png)
 
 ## Train models
 1. Go to Notebook/train_models.ipynp
@@ -14,3 +18,9 @@
 2. The weights used are in the Dissertation [link](https://drive.google.com/drive/folders/1TMwyM6mT7Pdf3DcWIPudXAXJgE9GBwWK?usp=sharing)
 3. You need to download the weights and set the paths in your codes
 4. You need to Download the datasets and set the path in your codes [link] (https://drive.google.com/drive/folders/1VadYbCgZ_EEfaPyhYM4L84Ci0keBJv9B?usp=sharing)
+
+## Originals Datasets
+1. [Human](https://www.kaggle.com/competitions/facial-keypoints-detection/data](https://www.kaggle.com/c/facial-keypoint-detection2/data)
+2. [Cat] (https://www.kaggle.com/crawford/cat-dataset)
+3. [Dog] (http://vision.stanford.edu/aditya86/ImageNetDogs/)
+4. [Horse] (https://github.com/menorashid/animal_human_kp)
