@@ -1,4 +1,4 @@
-# 2StepsLearning
+# 2StepsLearn
 [Project Page](https://www.verlab.dcc.ufmg.br/portfolio-item/detecting-landmarks-on-faces-in-different-domains/) [Paper](https://www.verlab.dcc.ufmg.br/fradeicip2018/) 
 
 ## Train models
