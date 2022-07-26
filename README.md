@@ -10,8 +10,8 @@ This Project aims to investigate approaches for landmarks detection in different
 ## Train models
 1. Go to Notebook/train_models.ipynp
 2. Get yours [datasets](https://drive.google.com/drive/folders/1VadYbCgZ_EEfaPyhYM4L84Ci0keBJv9B?usp=sharing) :
-  2.1. source: training_human_32x32.csv  </p>
-  2.2. target for example: training_cat_32x32  </p>
+  2.1. Source: training_human_32x32.csv  
+  2.2. Target for example: training_cat_32x32
 3. Put dataset files in your drive and change the path in your code to new path (dir_source, dir_target)
 
 ## Compare models
