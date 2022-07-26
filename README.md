@@ -3,7 +3,9 @@
 
 This Project aims to investigate approaches for landmarks detection in different domains face using a small dataset labeled. Detecting landmarks embedded with semantic information from images is one of the key challenges in image processing and computer vision fields. In general, landmarks or fiducial points are related to discriminative locations in the image, frequently embedding some meaning. For example, in human or animal faces, a landmark locates regions comprising the eyes, eyebrows, mouth, and the tip of the nose. After all, the automatic estimation of landmarks on faces has a myriad of applications such as faces recognition, game animation, avatars, and transferring facial expressions
 
-![alt text](landmarks.png)
+<p align="center">
+  <img src="landmarks.png">
+</p>
 
 ## Train models
 1. Go to Notebook/train_models.ipynp
