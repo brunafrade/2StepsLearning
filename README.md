@@ -10,8 +10,8 @@ This Project aims to investigate approaches for landmarks detection in different
 ## Train models
 1. Go to Notebook/train_models.ipynp
 2. Get yours [datasets](https://drive.google.com/drive/folders/1VadYbCgZ_EEfaPyhYM4L84Ci0keBJv9B?usp=sharing) :
-  source: training_human_32x32.csv
-  target for example: training_cat_32x32
+  <p> source: training_human_32x32.csv  </p>
+  <p> target for example: training_cat_32x32  </p>
 3. Put dataset files in your drive and change the path in your code to new path (dir_source, dir_target)
 
 ## Compare models
@@ -22,7 +22,7 @@ This Project aims to investigate approaches for landmarks detection in different
 4. You need to Download the datasets and set the path in your codes [link](https://drive.google.com/drive/folders/1VadYbCgZ_EEfaPyhYM4L84Ci0keBJv9B?usp=sharing)
 
 ## Originals Datasets
-1. [Human](https://www.kaggle.com/competitions/facial-keypoints-detection/data](https://www.kaggle.com/c/facial-keypoint-detection2/data)
+1. [Human](https://www.kaggle.com/competitions/facial-keypoints-detection/data)
 2. [Cat](https://www.kaggle.com/crawford/cat-dataset)
 3. [Dog](http://vision.stanford.edu/aditya86/ImageNetDogs/)
 4. [Horse](https://github.com/menorashid/animal_human_kp)
